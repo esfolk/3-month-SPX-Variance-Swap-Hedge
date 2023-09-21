@@ -23,7 +23,7 @@ This repository contains an analysis of a potential trade aimed to hedge the ris
 
 3. **Variance Swap Payout:**
    - The realized variance is determined by squaring the realized volatility.
-   - The variance swap payout is computed as: \( \text{Notional} \times (\text{Realized Variance} - \text{Vol Strike}^2) \).
+   - The variance swap payout is computed as: Notional x (Realized Variance - Vol Strike^2).
 
 4. **Vega Exposure Analysis:**
    - The Vega exposure for the variance swap is determined.
